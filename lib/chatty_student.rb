@@ -10,4 +10,9 @@ class ChattyStudent < Student
       Okay well let me just tell you who died..."
   end
 
+ def raise_hand
+   puts "Pick me!"
+
+ end
+ 
 end
